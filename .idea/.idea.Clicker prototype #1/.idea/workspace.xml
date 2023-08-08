@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="023173a2-8f9e-4690-b65b-ac23dbe64546" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.17/Editor/ProjectGeneration/ProjectGeneration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplierUpgrade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenuOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateBackground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AutoSell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GlobalShop.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuOptions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DisasterScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SellCookie.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GlobalCash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GlobalCookies.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainButtonClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MultiplierUpgrade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AutoCookie.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AutoSell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GlobalBaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GlobalShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PurchaseLog.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LPhgApjaFMwdZHV6qzMFeEJvHI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="023173a2-8f9e-4690-b65b-ac23dbe64546" name="Default Changelist" comment="" />
+      <created>1675778733496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675778733496</updated>
+      <workItem from="1675778737881" duration="30000" />
+      <workItem from="1675778803744" duration="671000" />
+      <workItem from="1675955219347" duration="1019000" />
+      <workItem from="1676385799561" duration="1260000" />
+      <workItem from="1676553537531" duration="250000" />
+      <workItem from="1676814799243" duration="960000" />
+      <workItem from="1677856327170" duration="419000" />
+      <workItem from="1688905679869" duration="474000" />
+      <workItem from="1688940766160" duration="2331000" />
+      <workItem from="1688998945824" duration="432000" />
+      <workItem from="1688999406330" duration="1746000" />
+      <workItem from="1689002827668" duration="779000" />
+      <workItem from="1689100824343" duration="2278000" />
+      <workItem from="1689336740007" duration="7840000" />
+      <workItem from="1689345068905" duration="4306000" />
+      <workItem from="1689596906055" duration="2195000" />
+      <workItem from="1690275572028" duration="9909000" />
+      <workItem from="1690897231255" duration="13154000" />
+      <workItem from="1691414046368" duration="1937000" />
+      <workItem from="1691498064318" duration="1000" />
+      <workItem from="1691498105020" duration="965000" />
+      <workItem from="1691499537373" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="160" key="SettingsEditor" timestamp="1691498130857">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="160" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1691498130857" />
+    <state x="616" y="238" key="run.anything.popup" timestamp="1691498235052">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1691498235052" />
+  </component>
+</project>
